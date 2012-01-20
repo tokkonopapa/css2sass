@@ -8,6 +8,6 @@ a, a:visited { color: gray;}
 .notice { color: orange; }
 .error { color: red; }
 .success { color: green;}
-#title { width:515px; overflow:hidden;}
-#title h1 {width:270px; font-size:4em; display:inline;}
+#title { /*width:515px;*/ overflow:hidden;}
+#title h1 { /*width:270px;*/ font-size:4em; display:inline;}
 #version{ float:right; margin-top:42px;}
